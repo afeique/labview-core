@@ -1,0 +1,211 @@
+[Workspace Header]
+Version = 1302
+Pathname Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Pathname Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Pathname Line0003 = "delPlugins/TestFixturePlugin Files/Source/MultiSerial.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "MultiSerial.prj"
+Drag Bar Left = 261
+Window Top = 30
+Window Left = 489
+Window Bottom = 596
+Window Right = 1873
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 4
+Window Confinement Region Enabled = True
+MainColumnWidth = 244
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Program Files (x86)/National Instruments/TestStand 2014/API/CVI/tsutil.fp"
+File Type = "Function Panel"
+Disk Date = 3486699274
+In Projects = "1,"
+
+[File 0002]
+Path Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Path Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Path Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.uir"
+File Type = "User Interface Resource"
+Disk Date = 3525955106
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Height = 401
+Window Width = 952
+Window Z-Order = 3
+
+[File 0003]
+Path Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Path Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Path Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.c"
+File Type = "CSource"
+Disk Date = 3525967734
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 1
+Source Window State = "1,42,43,43,0,59,59,0,0,299,0,0,0,0,0,86,21,0,63,17,401,952,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Path Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Path Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.h"
+File Type = "Include"
+Disk Date = 3525910149
+In Projects = ""
+Window Top = 572
+Window Left = 298
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,126,0,0,0,0,0,25,0,0,0,0,401,952,1,0,"
+
+[File 0005]
+Path = "/c/Program Files (x86)/National Instruments/TestStand 2014/API/CVI/tsapicvi.c"
+File Type = "CSource"
+Disk Date = 3486699528
+In Projects = ""
+Window Top = 152
+Window Left = 74
+Window Z-Order = 2
+Source Window State = "1,24735,24735,24735,16,41,41,0,3,125,0,0,0,0,0,25,24703,0,24735,16,401,952,1,0,"
+
+[File 0006]
+Path = "/c/program files (x86)/national instruments/cvi2013/include/userint.h"
+File Type = "Include"
+Disk Date = 3486524400
+In Projects = "1,"
+Window Top = 602
+Window Left = 314
+Source Window State = "1,2311,2311,2311,12,28,28,0,3,0,0,0,0,0,0,0,2299,0,2311,12,401,952,1,0,"
+
+[Tab Order]
+Tab 0001 Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Tab 0001 Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Tab 0001 Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.uir"
+Tab 0002 Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Tab 0002 Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Tab 0002 Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.c"
+Tab 0003 Line0001 = "/c/p4/CustomerEducation/Courses/InDev/TestStand2/2015/English/ExerciseSource/Sou"
+Tab 0003 Line0002 = "rce/Code Modules/solution specific/2-2/CVI/TestStand Public/Components/Models/Mo"
+Tab 0003 Line0003 = "delPlugins/TestFixturePlugin Files/Source/Multi Serial Number Dialog.h"
+Tab 0004 = "/c/Program Files (x86)/National Instruments/TestStand 2014/API/CVI/tsapicvi.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
